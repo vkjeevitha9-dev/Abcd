@@ -1,0 +1,8 @@
+# Maven build output
+target/
+
+# Java compiled files
+*.class
+
+# Local VS Code settings
+.vscode/
