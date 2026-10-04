@@ -1,0 +1,2 @@
+This file was created in feature/login-test branch.
+Learning Git branching with Selenium automation.
